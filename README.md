@@ -2,9 +2,10 @@
 
 <h3 align="center">I am an Analysis and Systems Development student, passionate about the world of technology.</h3>
 
+
 ## 🙋‍♂️ About Me
 
-• 👦 I'm 19 years old.
+- 👦 I'm 19 years old.
 - 📖 I’m currently learning JavaScript, trying to learn at least one new thing each day.
 - ⚡ Fun fact: I play games and love to watch live streams
 - 📫 How to reach me:
@@ -12,6 +13,7 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25px width= 100px>](https://www.instagram.com/viniguti0202/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25px width= 100px/>](https://www.linkedin.com/in/vinicius-gutierri-da-costa/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25px width= 100px/>](https://twitter.com/v1nicim)
+
 
 ## 🚀 Languages and Tools:
 
