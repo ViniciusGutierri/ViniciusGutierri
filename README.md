@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👦 I'm 19 years old.
+- 👦 I'm 20 years old.
 - 📖 I’m currently learning JavaScript, trying to learn at least one new thing each day.
 - ⚡ Fun fact: I play games and love to watch live streams
 - 📫 How to reach me:
