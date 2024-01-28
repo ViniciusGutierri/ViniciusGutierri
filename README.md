@@ -30,6 +30,10 @@
 
 <img src="https://www.reactiongifs.com/r/drj1NmK.gif" height= 30% width=30%/>
 
-![Vinicius Gutierri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGutierri&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGutierri&layout=compact&theme=dark)
+## ⚙️  GitHub Stats
 
+<div>
+ <a href="https://github.com/ViniciusGutierri">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniciusGutierri&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGutierri&layout=compact&langs_count=7&theme=dark"/>
+</div>
