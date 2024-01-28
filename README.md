@@ -31,7 +31,8 @@
           <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
           <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
-          
+<br>
+
 <img src="https://www.reactiongifs.com/r/drj1NmK.gif" height= 30% width=30%/>
 
 ## ⚙️  GitHub Stats
