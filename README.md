@@ -31,5 +31,5 @@
 <img src="https://www.reactiongifs.com/r/drj1NmK.gif" height= 30% width=30%/>
 
 ![Vinicius Gutierri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGutierri&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGutierri)](https://github.com/ViniciusGutierri/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusGutierri&layout=compact&theme=dark)
 
