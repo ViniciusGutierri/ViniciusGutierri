@@ -30,6 +30,5 @@
 
 <img src="https://www.reactiongifs.com/r/drj1NmK.gif" height= 30% width=30%/>
 
-<div>
-  ![Vinicius Gutierri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGutierri&theme=dark&show_icons=true)
-</div>
+![Vinicius Gutierri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusGutierri&theme=dark&show_icons=true)
+
