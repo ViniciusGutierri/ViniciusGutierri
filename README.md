@@ -7,7 +7,7 @@
 
 - 👦 I'm 21 years old.
 - 📖 Striving to become a full-stack developer, constantly learning and evolving.
-- ⚡ Fun fact: I play games and love to watch live streams
+- ⚡ Fun fact: I love playing games and watching livestreams, as well as binge-watching series and movies. 🎮🍿
 - 📫 How to reach me:
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25px width= 100px>](https://www.instagram.com/viniguti0202/)
