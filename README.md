@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👦 I'm 21 years old.
+- 👦 I'm 22 years old.
 - 📖 Striving to become a full-stack developer, constantly learning and evolving.
 - ⚡ Fun fact: I love playing games and watching livestreams, as well as binge-watching series and movies. 🎮🍿
 - 📫 How to reach me:
